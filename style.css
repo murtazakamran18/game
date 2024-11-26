@@ -94,13 +94,13 @@ body {
   }
 
   .player {
-    width: 50px;  /* Adjust player size for mobile */
-    height: 50px;
+    width: 70px;  /* Adjust player size for mobile */
+    height: 70px;
   }
 
   .obstacle {
-    width: 40px;  /* Adjust obstacle size for mobile */
-    height: 40px;
+    width: 50px;  /* Adjust obstacle size for mobile */
+    height: 50px;
   }
 
   .score {
